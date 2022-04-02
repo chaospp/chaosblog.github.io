@@ -54,6 +54,6 @@ jobs:
 
           publish_dir: ./public
 
-          cname: blog.ichr.me
+          cname: chaospp.github.io
 
           force_orphan: true
