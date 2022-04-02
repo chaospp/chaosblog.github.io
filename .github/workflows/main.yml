@@ -50,7 +50,7 @@ jobs:
 
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-          publish_branch: master
+          publish_branch: gh_pages
 
           publish_dir: ./public
 
