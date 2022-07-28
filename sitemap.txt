@@ -1,7 +1,6 @@
+http://example.com/hexo-admin-ehc-images.json
 http://example.com/2022/07/27/python-pa-chong-pa-qu-chu-zhong-ying-yu-ti-mu/
 http://example.com/2022/07/27/ji-yu-typecho-da-jian-ge-ren-bo-ke/
 http://example.com/2022/07/27/li-yong-termux-zai-shou-ji-shang-jin-xing-xue-xi-tong-de-zi-dong-qian-dao-1/
 http://example.com/2022/07/27/zai-fu-wu-qi-shang-zi-dong-shua-chao-xing-xue-xi-tong-wang-ke/
-http://example.com/2022/07/27/hello-world/
-http://example.com/hexo-admin-ehc-images.json
 http://example.com/
