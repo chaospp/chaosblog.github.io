@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2022/08/02/shu-tai-zu-lai-ge/</loc>
+    
+    <lastmod>2022-08-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2022/08/02/yong-hou-yi-cai-ji-qi-zhua-qu-wen-jian-bing-pi-liang-geng-gai-wen-jian-ming-md/</loc>
+    
+    <lastmod>2022-08-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/hexo-admin-ehc-images.json</loc>
     
     <lastmod>2022-07-28</lastmod>
@@ -49,7 +67,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2022-07-28</lastmod>
+    <lastmod>2022-08-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

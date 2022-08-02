@@ -1,3 +1,5 @@
+http://example.com/2022/08/02/shu-tai-zu-lai-ge/
+http://example.com/2022/08/02/yong-hou-yi-cai-ji-qi-zhua-qu-wen-jian-bing-pi-liang-geng-gai-wen-jian-ming-md/
 http://example.com/hexo-admin-ehc-images.json
 http://example.com/2022/07/27/python-pa-chong-pa-qu-chu-zhong-ying-yu-ti-mu/
 http://example.com/2022/07/27/ji-yu-typecho-da-jian-ge-ren-bo-ke/
